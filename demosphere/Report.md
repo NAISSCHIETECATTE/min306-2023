@@ -32,8 +32,14 @@ The data we obtain for each event can be presented like this :
 | `http://www.schema.org`  | `Event` | 'Réunion des Indignés- Groupe de travail Const...'| 'https://paris.demosphere.net/rv/19667' | '2012-01-02T19:00'|'2012-01-02'|'{'@type': 'Place', 'name': 'Devant le café « L...'| 'Groupe de travail Constituante\n\nIndignés - D...' |
 
 
-# Let's look at the weekly patterns
+## Let's look at the weekly patterns
 
 With the python notebook Weekday.ipynb, we looked at the weekly patterns for each month of the year 2012.
 
-![Weekly pattern january](/images/jan2012.png)
+![Weekly pattern january](/demosphere/jan2012.png)
+
+![Weekly pattern february](/demosphere/feb2012.png)
+
+
+
+
